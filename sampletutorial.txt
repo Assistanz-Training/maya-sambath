@@ -2,7 +2,7 @@
     <li>green</li>
 
 	<li>sky blue</li>
-	<li>pinky</li>
+	<li>pink</li>
 
 	<li>navvy blue</li>
 	<li>yellow</li>
